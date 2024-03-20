@@ -22,8 +22,6 @@
 
 ---
 
-🌐 [React Portfolio](https://maximeraylet.vercel.app/)
-
 <h3 align="center">📍 Connect with me !</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/mcraylet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maxime%20Raylet-blue?style=flat-square&logo=linkedin"></a>
