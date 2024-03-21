@@ -1,3 +1,10 @@
+```mermaid
+graph TD;
+Parent-->Enfant-1;
+Parent-->Enfant-2;
+Enfant-1-->Enfant-3;
+```
+
 <img src="https://i.imgur.com/cJh0rmo.png" />
 
 ## 👨‍💻 About Me
