@@ -1,7 +1,7 @@
 ```mermaid
 graph TD;
-A-->B;
-A-->C;
+Parent-->Enfant B;
+Parent-->Enfant C;
 ```
 
 <img src="https://i.imgur.com/cJh0rmo.png" />
