@@ -1,7 +1,9 @@
 ```mermaid
 graph TD;
-App-->Compteur 1;
-App-->Compteur 2;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
 ```
 
 <img src="https://i.imgur.com/cJh0rmo.png" />
