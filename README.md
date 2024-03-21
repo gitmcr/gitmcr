@@ -2,8 +2,6 @@
 graph TD;
 A-->B;
 A-->C;
-B-->D;
-C-->D;
 ```
 
 <img src="https://i.imgur.com/cJh0rmo.png" />
